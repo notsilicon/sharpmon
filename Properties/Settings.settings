@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SharpMonitor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CornExpression" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0 0 4am ? * *</Value>
+    </Setting>
+    <Setting Name="PortName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM4</Value>
+    </Setting>
+    <Setting Name="DeviceId" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="RepeatIntervalInSeconds" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="APIKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">70fb34b895d7a770349f4858545392fd83d0f56a</Value>
+    </Setting>
+    <Setting Name="SystemId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">211</Value>
+    </Setting>
+    <Setting Name="WeatherServiceUrl" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">http://weather.yahooapis.com/forecastrss?w=55864533</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
