@@ -1,0 +1,1 @@
+C:\SharpMonitor2\src\bin\Release\SharpMonitor.exe.config
